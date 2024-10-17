@@ -2,7 +2,7 @@ import React from "react";
 import { Box, Container, Image, Text } from "@chakra-ui/react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-import logo from '../assets/pnf.WEBP';
+import logo from '../assets/pnf.png';
 
 const PageNotFound = () => {
   return (
